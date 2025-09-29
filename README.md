@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my first Git Repositry
+this is my first Git Repositry.
+Author-Arfat Patel
